@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andr-ewmartine-z-tcjl.github.io/my-notes/sitemap.xml
